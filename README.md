@@ -1,4 +1,4 @@
-# BookShoppingCartMvc (A basic e-comm system for beginners)📚🛒
+# BookShoppingCartMvc 📚🛒
 
 A full-featured e-commerce application built with .NET Core 9, featuring shopping cart functionality, user management, and admin operations.
 
